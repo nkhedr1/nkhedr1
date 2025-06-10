@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Nour
 
-<!--
-**nkhedr1/nkhedr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught cybersecurity enthusiast and former software developer, now focused on offensive security, pentesting, and red teaming. I’ve been studying for the OSCP exam, completing hands-on labs across Hack The Box and Proving Grounds.
 
-Here are some ideas to get you started:
+🔍 I enjoy digging into:
+- Web application vulnerabilities
+- Active Directory attacks
+- Privilege escalation in Linux and Windows environments
+- Adversary emulation and practical exploitation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 Check out my [Pentest Lab Writeups](https://github.com/nkhedr1/pentest-labs) for examples of real-world techniques and walkthroughs.
+
+I'm passionate about security, committed to growth, and excited to keep learning and contributing to the field.
